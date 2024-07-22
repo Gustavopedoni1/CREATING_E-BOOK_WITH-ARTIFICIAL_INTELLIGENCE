@@ -3,8 +3,10 @@
 During a bootcamp at DIO, we were challenged to create an eBook with the help of artificial intelligence. I decided to focus on the theme "DevOps" because of its importance in the tech industry and because I am passionate about this area. I used ChatGPT to assist me in creating the content and Microsoft Copilot for creating the images.
 
 
-# [📚CLICK TO READ](https://github.com/Gustavopedoni1/CREATING_E-BOOK_WITH-ARTIFICIAL_INTELLIGENCE/blob/main/files/E-book%20DevOps.pdf) #
+# 📚CLICK TO READ # 
 
+[📗PT-BR](https://github.com/Gustavopedoni1/CREATING_E-BOOK_WITH-ARTIFICIAL_INTELLIGENCE/blob/main/files/E-book%20DevOps.pdf) 
+[📕EN-US](https://github.com/Gustavopedoni1/CREATING_E-BOOK_WITH-ARTIFICIAL_INTELLIGENCE/blob/main/files/Exploring-DevOps-First-Steps-in-Your-Career.pdf)
 
 # 💻 TECHNOLOGIES USED. #
 
