@@ -11,6 +11,7 @@ During a bootcamp at DIO, we were challenged to create an eBook with the help of
 - [ChatGPT](https://chatgpt.com/)
 - [MicrosoftCopilot](https://copilot.microsoft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint?market=af)
+- [Gamma APP](https://gamma.app/)
 
 
 
